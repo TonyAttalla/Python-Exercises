@@ -19,9 +19,6 @@
 """
 
 # Tony Attalla
-# 1003974158
-# attalla8
-#+
 # Do not add import statements or change the one above.
 # Write your WackyQueue class code below.
 
